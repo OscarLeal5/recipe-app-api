@@ -1,8 +1,6 @@
 """
 Tests for models.
 """
-from email.message import EmailMessage
-from multiprocessing.sharedctypes import Value
 from django.test import TestCase
 from django.contrib.auth import get_user_model
 
